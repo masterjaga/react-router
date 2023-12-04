@@ -2,25 +2,19 @@ import React from "react";
 
 function DataScience(){
     const data2=[{
-        img :"https://www.guvi.in/blog/wp-content/uploads/2023/07/best-data-science-frameworks.webp",
-        title:"Top 10 Data Science Tools in 2023",
-        date:"November 1, 2023"
-      },
-      {
-        img :"https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-Useful-Python-Libraries-and-Tools-For-Data-Science-Beginners.webp",
-        title:"Useful Python Libraries & Tools for Data Science Beginners",
-        date:"September 29, 2023"
-      },
-      {
-        img :"https://www.tqmi.com/wp-content/uploads/2022/02/Data-Science-4.webp",
-        title:"Best Way to Learn Data Science in 2023",
-        date:"July 28, 2023"
-      },
-
-      {
-        img :"https://www.tqmi.com/wp-content/uploads/2022/02/Data-Science-4.webp",
-        title:"Best Way to Learn Data Science in 2023",
-        date:"July 28, 2023"
+        img :"https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Top-High-Paying-Non-Coding-Jobs-in-Data-Science.webp",
+      title:"Top 10 High Paying Non-Coding Jobs in Data Science in 2023",
+      date:"November 28, 2023"
+    },
+    {
+      img :"https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-1-2048x1024.webp",
+      title:"Impact of Certification Programs on Hiring Data Scientists",
+      date:"November 15, 2023"
+    },
+    {
+      img :"https://www.guvi.in/blog/wp-content/uploads/2023/11/feature-image-product-based-companies-for-data-science-freshers.webp",
+      title:"Top Product-Based Companies for Data Science Freshers",
+      date:"November 10, 2023"
       },
     ]
       return(
