@@ -2,25 +2,19 @@ import React from "react";
 
 function CyberSecurity(){
     const data4=[{
-        img :"https://www.proschoolonline.com/wp-content/uploads/2021/02/Cyber-Security-768x461.webp",
-        title:"Top 10 Ethical Hacking Books for Beginner to Advanced",
-        date:"November 21, 2022"
-      },
-      {
-        img :"https://easydmarc.com/blog/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/05/What-is-Password-Attack-in-Cyber-Security_.jpg.webp",
-        title:"8 Different Types of Cybersecurity and Threats Involved",
-        date:"November 9, 2022"
-      },
-      {
-        img :"https://www.wrk.com/media/images/sales-cyber-security.2e16d0ba.fill-1600x900.format-webp.webp",
-        title:"How Is Cyber Security Important To Our Lives?",
-        date:"November 10, 2020"
-      },
-
-      {
-        img :"https://www.wrk.com/media/images/sales-cyber-security.2e16d0ba.fill-1600x900.format-webp.webp",
-        title:"How Is Cyber Security Important To Our Lives?",
-        date:"November 10, 2020"
+        img :"https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
+      title:"What Is Hacking? Types of Hacking & More",
+      date:"September 25, 2023"
+    },
+    {
+      img :"https://www.guvi.in/blog/wp-content/uploads/2021/03/The-Ultimate-%E2%80%A8Cybersecurity-Roadmap-for-Beginners.webp",
+      title:"The Ultimate Cybersecurity Roadmap for Beginners",
+      date:"March 1, 2021"
+    },
+    {
+      img :"https://www.wrk.com/media/images/sales-cyber-security.2e16d0ba.fill-1600x900.format-webp.webp",
+      title:"How Is Cyber Security Important To Our Lives?",
+      date:"November 10, 2020"
       },
     ]
       return(
