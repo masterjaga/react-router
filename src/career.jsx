@@ -2,25 +2,19 @@ import React from "react";
 
 function Career(){
     const data3=[ {
-        img :"https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Product-based-Company-Vs-Service-based-Company.webp",
-        title:"Product-based Company Vs Service-based Company: Which is Best Choice?",
-        date:"November 2, 2023"
-      },
-      {
-        img :"https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Top-Product-Based-Companies-for-Machine-Learning-Engineers.webp",
-        title:"Top 5 Product-Based Companies for Machine Learning Engineers",
-        date:"October 11, 2023"
-      },
-      {
-        img :"https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-Everything-You-Should-Know-About-ChatGPT-and-Why-It-Matters.webp",
-        title:"Everything You Should Know About ChatGPT & Why It Matters?",
-        date:"September 29, 2023"
-      },
-
-      {
-        img :"https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Top-Product-Based-Companies-for-Machine-Learning-Engineers.webp",
-        title:"Top 5 Product-Based Companies for Machine Learning Engineers",
-        date:"October 11, 2023"
+        img :"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Commerce-Students.webp",
+      title:"Top IT Jobs for Commerce Students: A Lucrative Career Path",
+      date:"December 2, 2023"
+    },
+    {
+      img :"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Automation-Test-Engineer-Resume-Important-Things-To-Consider.webp",
+      title:"Automation Test Engineer Resume: 10 Important Things To Consider",
+      date:"December 1, 2023"
+    },
+    {
+      img :"https://www.guvi.in/blog/wp-content/uploads/2023/11/Featured-Image-2048x1072.webp",
+      title:"9 Best Product-Based Companies for Project Management",
+      date:"December 1, 2023"
       },
     ]
       return(
