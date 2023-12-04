@@ -14,24 +14,24 @@ function App() {
 
   const datas=[
     {
-      img :"https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Product-based-Company-Vs-Service-based-Company.webp",
-      title:"Product-based Company Vs Service-based Company: Which is Best Choice?",
-      date:"2 November 2023"
+      img :"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-AWS-vs-Azure-vs-Google-Cloud-Comparing-the-Top-Cloud-Service-Providers.webp",
+      title:"AWS vs Azure vs Google Cloud: Comparing the Top Cloud Service Providers",
+      date:"4 December 2023"
     },
     {
-      img :"https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-How-Long-It-Would-Take-to-Master-Cloud-Computing-Engineering.webp",
-      title:"How Long It Would Take to Master Cloud Computing Engineering",
-      date:"26 October 2023 "
+      img :"https://www.guvi.in/blog/wp-content/uploads/2023/12/Best-AI-Tools-for-Coding-01-2048x1072.png",
+      title:"6 Best AI Tools for Coding",
+      date:"2 December 2023"
     },
     {
-      img :"https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Excellent-Product-based-Companies-for-UI_UX-Designing.webp",
-      title:"8 Excellent Product-based Companies for UI/UX Designing",
-      date:"October 12, 2023"
+      img :"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-Blockchain-Project-Ideas-For-Students.webp",
+      title:"Top 8 Blockchain Project Ideas For Students",
+      date:"2 December 2023"
     },
     {
       img :"https://www.applify.com.sg/blog/wp-content/uploads/2023/06/What-is-full-stack-developer-768x432.webp",
-      title:"The Top 10 Tools Every Full-Stack Developer Should Master in 2023",
-      date:"August 5, 2023"
+      title:"Top 8 Blockchain Project Ideas For Students",
+      date:"D 2, 2023"
     },
     {
       img :"https://www.guvi.in/blog/wp-content/uploads/2023/08/Feature-image-Best-Full-Stack-Development-Online-Courses.webp",
