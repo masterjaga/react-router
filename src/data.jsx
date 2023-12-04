@@ -1,25 +1,19 @@
 import React from "react";
 
 const data1=[{
-    img :"https://www.applify.com.sg/blog/wp-content/uploads/2023/06/What-is-full-stack-developer-768x432.webp",
-    title:"The Top 10 Tools Every Full-Stack Developer Should Master in 2023",
-    date:"August 5, 2023"
-  },
-  {
-    img :"https://www.guvi.in/blog/wp-content/uploads/2023/08/Feature-image-Best-Full-Stack-Development-Online-Courses.webp",
-    title:"Top Skills To Become a Full-Stack Developer in 2023",
-    date:"August 3, 2023"
-  },
-  {
-    img :"https://www.guvi.in/blog/wp-content/uploads/2023/07/roles_and_responsibilities_of_full_stack_developer_1x.webp",
-    title:"The Future & Scope of Full-Stack Developers in India",
-    date:"July 27, 2023"
-  },
-
-  {
-  img :"https://www.applify.com.sg/blog/wp-content/uploads/2023/06/What-is-full-stack-developer-768x432.webp",
-  title:"The Top 10 Tools Every Full-Stack Developer Should Master in 2023",
-  date:"August 5, 2023"
+     img :"https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Top-High-Paying-Non-Coding-Jobs-in-Data-Science.webp",
+      title:"Top 10 High Paying Non-Coding Jobs in Data Science in 2023",
+      date:"November 28, 2023"
+    },
+    {
+      img :"https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-1-2048x1024.webp",
+      title:"Impact of Certification Programs on Hiring Data Scientists",
+      date:"November 15, 2023"
+    },
+    {
+      img :"https://www.guvi.in/blog/wp-content/uploads/2023/11/feature-image-product-based-companies-for-data-science-freshers.webp",
+      title:"Top Product-Based Companies for Data Science Freshers",
+      date:"November 10, 2023"
 },
 
 ]
